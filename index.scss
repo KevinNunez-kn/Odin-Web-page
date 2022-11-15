@@ -41,7 +41,7 @@ body{
 }
 
 .head_container .header_logo{
-  font-size: 10px;
+  font-size: 24px;
   color: #F9FAF8;
   margin: 0 0 0 1in;
   flex: 1 1 0%;
@@ -165,22 +165,22 @@ body{
 
 .descript_one{
   @include photo_descript;
-  width: 100px;
+  width: 120px;
 }
 
 .descript_two{
   @include photo_descript;
-  width: 100px;
+  width: 120px;
 }
 
 .descript_three{
   @include photo_descript;
-  width: 100px;
+  width: 120px;
 }
 
 .descript_four{
   @include photo_descript;
-  width: 100px;
+  width: 120px;
 }
   
 .quote_background{
@@ -206,7 +206,7 @@ body{
 .para_cont{
   float: right;
   margin: 0 1in 0 0;
-  font-size: 20px;
+  font-size: 36px;
   color: black;
   font-weight: bold;
 }
